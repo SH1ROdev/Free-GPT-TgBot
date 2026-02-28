@@ -21,8 +21,7 @@
    git clone https://github.com/SH1ROdev/Free-GPT-TgBot
    cd Free-GPT-TgBot
 
-2.
-pip install -r requirements.txt
+2. pip install -r requirements.txt
 В .env и укажите токен бота:
 
 text
